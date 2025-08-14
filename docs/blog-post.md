@@ -22,7 +22,6 @@ While troubleshooting a delayed MFA rollout, I used this script to confirm:
 - Sync type was PasswordHashSync
 - Conditional Access policy was enabled but scoped to a test group
 
-This helped isolate the issue and accelerate rollout.
 
 ## 🛠 Setup
 
