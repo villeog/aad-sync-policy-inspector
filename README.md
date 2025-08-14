@@ -1,0 +1,1 @@
+# aad-sync-policy-inspector
