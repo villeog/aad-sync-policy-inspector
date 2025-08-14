@@ -7,7 +7,7 @@
   and optionally queries Microsoft Graph for Conditional Access policies.
 
 .NOTES
-  Author: Villers
+  Author: ville
   Last Updated: August 2025
 #>
 
